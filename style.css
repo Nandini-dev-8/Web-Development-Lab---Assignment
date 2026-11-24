@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3e5f5;
+    text-align: center;
+}
+
+h1 {
+    color: #553969;
+}
+
+h2 {
+    color: #77548e;
+}
+
+h3 {
+    color:#77548e ;
+}
+
+.container {
+    background-color: rgb(247, 241, 252);
+    width: 350px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input, select {
+    width: 90%;
+    padding: 10px;
+    margin: 8px;
+}
+
+button {
+    background-color: #9575cd;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #6a3db8;
+}
+
+.expense {
+    background-color: #ede7f6;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.delete {
+    background-color: #ab47bc;
+}
